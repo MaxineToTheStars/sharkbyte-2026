@@ -1,0 +1,178 @@
+Semester 1
+Units: 14.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+Mathematics
+3.0
+MAC 1105
+College Algebra ( Active )
+3.0
+OR
+STA 2023
+Statistical Methods ( Active )
+3.0
+CGS 1060C
+Introduction to Computer Technology and Applications ( Active )
+4.0
+CTS 1134
+Networking Technologies ( Active )
+4.0
+Semester 2
+Units: 12.0
+CGS 1700
+Introduction to Operating Systems ( Active )
+4.0
+CIS 1531
+Introduction to Secure Scripting ( Active )
+4.0
+CTS 1120
+Cybersecurity Fundamentals ( Active )
+4.0
+Semester 3
+Units: 7.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+CTS 1111
+Linux + ( Active )
+4.0
+Semester 4
+Units: 14.0
+Humanities
+3.0
+HUM 1020
+Humanities ( Active )
+3.0
+OR
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+Natural Science
+3.0
+BSC 1005
+General Education Biology ( Active )
+3.0
+OR
+ESC 1000
+General Education Earth Science ( Active )
+3.0
+OR
+EVR 1001
+Introduction to Environmental Science ( Active )
+3.0
+CET 2880C
+Digital Forensics ( Active )
+4.0
+CTS 2314
+Network Defense and Countermeasures ( Active )
+4.0
+Semester 5
+Units: 13.0
+CIS 2350
+Cybersecurity Analysis (CySA+) ( Active )
+4.0
+Program Electives
+9.0
+CAI 1001C
+Artificial Intelligence (AI) Thinking ( Active )
+3.0
+OR
+CAI 1320C
+Introduction to Prompt Engineering ( Active )
+3.0
+OR
+CAI 2100C
+Machine Learning Foundations ( Active )
+3.0
+OR
+CAI 2300C
+Introduction to Natural Language Processing ( Active )
+3.0
+OR
+CAI 2820C
+Artificial Intelligence Applications Solutions ( Active )
+3.0
+OR
+CAI 2840C
+Introduction to Computer Vision ( Active )
+3.0
+OR
+CIS 1949
+CO-Op Work Experience 1: CIS ( Active )
+1.0
+OR
+CIS 2010C
+Introduction to Internet of Things Networking and Security ( Active )
+4.0
+OR
+CIS 2900
+Directed Study in IT ( Active )
+1.0
+OR
+CJE 1680
+Introduction to Computer Crimes ( Active )
+3.0
+OR
+CJL 2062
+Constitutional Law and Legal Procedure or Evidence ( Active )
+3.0
+OR
+COP 1047C
+Introduction to Python Programming ( Active )
+4.0
+OR
+COP 1334
+Introduction to C++ Programming ( Active )
+4.0
+OR
+COP 2041C
+Python Programming 2 ( Active )
+4.0
+OR
+COP 2800
+Java Programming ( Active )
+4.0
+OR
+CTS 1145
+Cloud Essentials ( Active )
+4.0
+OR
+CTS 2143C
+Server Administration ( Active )
+4.0
+OR
+CTS 2148C
+IT Project Management ( Active )
+4.0
+OR
+CTS 2192C
+Microsoft Azure Administration ( Active )
+4.0
+OR
+CTS 2303
+Windows Server Administration ( Active )
+4.0
+OR
+CTS 2375C
+Cloud Infrastructure and Services ( Active )
+4.0
+OR
+CTS 2670
+Check Point Security Administration ( Active )
+4.0
+OR
+CTS 2671
+Check Point Security Engineering ( In Review )
+4.0
+Total : 60.0

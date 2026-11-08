@@ -1,0 +1,103 @@
+Semester 1
+Units: 13.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+MAC 1105
+College Algebra ( Active )
+3.0
+Humanities
+3.0
+HUM 1020
+Humanities ( Active )
+3.0
+OR
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+EGN 1008C
+Introduction to Engineering ( Active )
+3.0
+SLS 1106
+First Year Experience Seminar ( Active )
+1.0
+Semester
+Units: 11.0
+ENC 1102
+English Composition 2 ( Active )
+3.0
+MAC 1140
+Pre-Calculus Algebra ( Active )
+3.0
+CHM 1045
+General Chemistry and Qualitative Analysis ( Active )
+3.0
+CHM 1045L
+General Chemistry Lab ( Active )
+2.0
+Computer Competency Test *
+* Computer Competency Test (CCT) ---OR--- CGS 1060C. Departmental Recommendation: Computer Competency Test (CCT)
+Semester 3
+Units: 6.0
+MAC 1114
+Trigonometry ( Active )
+3.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+Semester 4
+Units: 14.0
+MAC 2311
+Calculus and Analytical Geometry 1 ( Active )
+5.0
+PHY 1025
+Basic Physics ( Active )
+3.0
+Oral Communication
+3.0
+SPC 1017
+Introduction to Communication ( Active )
+3.0
+OR
+SPC 2608
+Introduction to Public Speaking ( Active )
+3.0
+Social Science
+3.0
+ECO 2013
+Principles of Economics (Macro) ( Active )
+3.0
+OR
+PSY 2012
+Introduction to Psychology ( Active )
+3.0
+Semester 5
+Units: 12.0
+MAC 2312
+Calculus and Analytical Geometry 2 ( Active )
+4.0
+PHI 2600
+Introduction to Ethics ( Active )
+3.0
+PHY 2048
+Physics with Calculus 1 ( Active )
+4.0
+PHY 2048L
+Physics with Calculus 1 Lab ( Active )
+1.0
+Semester 6
+Units: 4.0
+MAC 2313
+Calculus and Analytic Geometry 3 ( Active )
+4.0
+Total : 60.0

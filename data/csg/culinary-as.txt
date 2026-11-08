@@ -1,0 +1,85 @@
+Semester 1
+Units: 12.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+FSS 1200
+Culinary Terminology and Procedures ( Active )
+3.0
+FSS 1202C
+Food Production 1 - Foundational Skills ( Active )
+3.0
+HFT 1212
+Safety and Sanitation ( Active )
+3.0
+Semester 2
+Units: 12.0
+FSS 1204C
+Food Production 2 - American Regional Cuisine ( Active )
+3.0
+FSS 1246C
+Basic Baking - Foundational Skills ( Active )
+3.0
+MGF 1130
+Mathematical Thinking ( Active )
+3.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+Semester 3
+Units: 9.0
+FSS 2248C
+Garde Manger ( Active )
+3.0
+HFT 1220
+Supervisory Development ( Active )
+3.0
+HUN 1201
+Essentials of Human Nutrition ( Active )
+3.0
+Computer Competency *
+* Computer Competency Test (CCT) ---OR--- CGS1060C - Introduction to Computer Technology and Applications. Departmental Recommendation: Computer Competency Test (CCT).
+Semester 4
+Units: 12.0
+BSC 1005
+General Education Biology ( Active )
+3.0
+FSS 1801
+Culinary Sustainability and Practices ( Active )
+3.0
+FSS 2242C
+International Cuisine ( Active )
+3.0
+HFT 1454
+Food and Beverage Cost Controls ( Active )
+3.0
+Semester 5
+Units: 8.0
+ACG 1403
+Excel for Business ( Active )
+1.0
+FSS 2205C
+Food Production 3 - Contemporary Cuisine and Modernist Methods ( Active )
+3.0
+FSS 2381
+MCI Café Management Internship ( Active )
+4.0
+Semester 6
+Units: 7.0
+FSS 2940
+Culinary Management Externship ( Active )
+4.0
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+Total : 60.0

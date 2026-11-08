@@ -1,0 +1,164 @@
+Semester 1
+Units: 14.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+Humanities
+3.0
+ARH 1000
+Art Appreciation ( Active )
+3.0
+OR
+HUM 1020
+Humanities ( Active )
+3.0
+OR
+LIT 2000
+Introduction to Literature ( Active )
+3.0
+OR
+MUL 1010
+Music Appreciation ( Active )
+3.0
+OR
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+OR
+THE 2000
+Theatre Appreciation ( Active )
+3.0
+MAC 1105
+College Algebra ( Active )
+3.0
+CGS 1060C
+Introduction to Computer Technology and Applications ( Active )
+4.0
+SLS 1106
+First Year Experience Seminar ( Active )
+1.0
+Semester 2
+Units: 13.0
+ENC 1102
+English Composition 2 ( Active )
+3.0
+MAC 1140
+Pre-Calculus Algebra ( Active )
+3.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+COP 1334
+Introduction to C++ Programming ( Active )
+4.0
+Semester 3
+Units: 6.0
+Oral Communication
+3.0
+SPC 1017
+Introduction to Communication ( Active )
+3.0
+OR
+SPC 2608
+Introduction to Public Speaking ( Active )
+3.0
+PHI 2600
+Introduction to Ethics ( Active )
+3.0
+Semester 4
+Units: 13.0
+MAD 2104
+Discrete Mathematics ( Active )
+3.0
+Natural Science
+3.0
+AST 1002
+Descriptive Astronomy ( Active )
+3.0
+OR
+ESC 1000
+General Education Earth Science ( Active )
+3.0
+OR
+EVR 1001
+Introduction to Environmental Science ( Active )
+3.0
+OR
+PHY 2048
+Physics with Calculus 1 ( Active )
+4.0
+OR
+PHY 2053
+Physics (without Calculus) 1 ( Active )
+3.0
+PSY 2012
+Introduction to Psychology ( Active )
+3.0
+COP 2800
+Java Programming ( Active )
+4.0
+Semester 5
+Units: 14.0
+ECO 2013
+Principles of Economics (Macro) ( Active )
+3.0
+STA 2023
+Statistical Methods ( Active )
+3.0
+Natural Science
+3.0
+BSC 1005
+General Education Biology ( Active )
+3.0
+OR
+CHM 1020
+General Education Chemistry ( Active )
+3.0
+OR
+PHY 1020
+General Education Physics ( Active )
+3.0
+OR
+PHY 1025
+Basic Physics ( Active )
+3.0
+Pathway Electives
+5.0
+CAP 1788
+Introduction to Data Analytics ( Active )
+4.0
+OR
+CGS 1540C
+Database Concepts Design ( Active )
+4.0
+OR
+COP 1047C
+Introduction to Python Programming ( Active )
+4.0
+OR
+COP 2805C
+Java Programming 2 ( Active )
+4.0
+OR
+CTS 1120
+Cybersecurity Fundamentals ( Active )
+4.0
+OR
+CTS 1134
+Networking Technologies ( Active )
+4.0
+OR
+CTS 1145
+Cloud Essentials ( Active )
+4.0
+Total : 60.0

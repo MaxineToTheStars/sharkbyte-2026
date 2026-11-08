@@ -1,0 +1,115 @@
+Semester 1
+Units: 14.0
+ENC 1102
+English Composition 2 ( Active )
+3.0
+Mathematics (GE)
+3.0
+MAC 1105
+College Algebra ( Active ) *
+3.0
+OR
+STA 2023
+Statistical Methods ( Active )
+3.0
+CIS 3215
+Ethics in CyberSecurity ( Active )
+4.0
+CIS 3360
+Principles of Information Security ( Active )
+4.0
+* Note: MAC 1105 may be replaced by higher-level mathematics with prefix MAC*, MAD*, MAS*, or MAP*.
+Semester 2
+Units: 12.0
+CIS 3361
+Information Security Management ( Active )
+4.0
+CIS 4204
+Ethical Hacking I ( Active )
+4.0
+CIS 4366
+Computer Forensics ( Active )
+4.0
+Semester 3
+Units: 8.0
+CIS 4378
+Ethical Hacking II ( Active )
+4.0
+CIS 4388
+Advanced Computer Forensics ( Active )
+4.0
+Foreign Language Competence *
+* Foreign language is a graduation requirement for the baccalaureate met through 8 credit hours at the elementary 2 level in one foreign language or equivalent. Certain foreign language courses count towards program electives. Students may satisfy equivalence through standardized examinations or successful completion of two credits (two years) in one foreign language at the secondary (high school) level. For additional information, including exemptions for students whose native language is not English, see the Testing and Assessment Department.
+Semester 4
+Units: 14.0
+CIS 4364
+Intrusion Detection and Incident Response ( Active )
+4.0
+CNT 3409C
+Network Security ( Active )
+4.0
+Oral Communications (GE)
+3.0
+SPC 1017
+Introduction to Communication ( Active )
+3.0
+OR
+SPC 2608
+Introduction to Public Speaking ( Active )
+3.0
+Social Science (GE)
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+ECO 2013
+Principles of Economics (Macro) ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+OR
+PSY 2012
+Introduction to Psychology ( Active )
+3.0
+Semester 5
+Units: 13.0
+CIS 4891
+Cyber Security Capstone ( Historical )
+4.0
+Humanities (GE)
+3.0
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+OR
+PHI 2600
+Introduction to Ethics ( Active )
+3.0
+Natural Science (GE)
+3.0
+BSC 1005
+General Education Biology ( Active )
+3.0
+OR
+ESC 1000
+General Education Earth Science ( Active )
+3.0
+OR
+EVR 1001
+Introduction to Environmental Science ( Active )
+3.0
+OR
+PHY 1025
+Basic Physics ( Active )
+3.0
+General Education Elective (GE) *
+3.0
+* Students are encouraged to consult with an academic advisor to select approved courses that align with their interests and fulfill remaining graduation requirements.
+Total : 61.0

@@ -1,0 +1,107 @@
+Semester 1
+Units: 14.0
+CGS 1060C
+Introduction to Computer Technology and Applications ( Active )
+4.0
+4.0
+CTS 1134
+Networking Technologies ( Active )
+4.0
+OR
+CTS 1650
+CCNA 1: Cisco Fundamentals ( Active )
+4.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+MAC 1105
+College Algebra ( Active )
+3.0
+Semester 2
+Units: 12.0
+CGS 1560
+A+ Computer Operating Systems ( Active )
+4.0
+CTS 1328
+Supporting Microsoft Clients ( Active )
+4.0
+Program Electives *
+4.0
+* Select 4 credits from the following course option: CAP1788, CAP2761C, CIS1949, CIS2010C, CIS2900, COP1047C, COP2041C, COP2800, CTS1111, CTS1120, CTS1145, CTS1651, CTS2143C, CTS2192C, CTS2375C, CTS2652, CTS2960, GIS1040, GIS2045.
+Semester 3
+Units: 9.0
+Humanities
+3.0
+ARH 1000
+Art Appreciation ( Active )
+3.0
+OR
+HUM 1020
+Humanities ( Active )
+3.0
+OR
+LIT 2000
+Introduction to Literature ( Active )
+3.0
+OR
+MUL 1010
+Music Appreciation ( Active )
+3.0
+OR
+PHI 2010
+Introduction to Philosophy ( Active )
+3.0
+OR
+THE 2000
+Theatre Appreciation ( Active )
+3.0
+Natural Science
+3.0
+BSC 1005
+General Education Biology ( Active )
+3.0
+OR
+ESC 1000
+General Education Earth Science ( Active )
+3.0
+OR
+EVR 1001
+Introduction to Environmental Science ( Active )
+3.0
+OR
+OCE 1001
+Introduction to Oceanography ( Active )
+3.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+Semester 4
+Units: 12.0
+CTS 1131
+A+ Computer Essentials & Support ( Active )
+4.0
+CTS 2148C
+IT Project Management ( Active )
+4.0
+CTS 2153
+Supporting Windows Users & Applications ( Active )
+4.0
+Semester 5
+Units: 13.0
+CGS 2108
+Advanced Desktop Applications ( Active )
+4.0
+Program Electives *
+9.0
+* Select 9 credits from the following course option: CAP1788, CAP2761C, CIS1949, CIS2010C, CIS2900, COP1047C, COP2041C, COP2800, CTS1111, CTS1120, CTS1145, CTS1651, CTS2143C, CTS2192C, CTS2375C, CTS2652, CTS2960, GIS1040, GIS2045.
+Total : 60.0

@@ -1,0 +1,114 @@
+Semester 1
+Units: 12.0
+ENC 1101
+English Composition 1 ( Active )
+3.0
+ARH 1000
+Art Appreciation ( Active )
+3.0
+Social Science
+3.0
+AMH 2010
+History of the US to 1877 ( Active )
+3.0
+OR
+AMH 2020
+History of the US since 1877 ( Active )
+3.0
+OR
+POS 2041
+American Federal Government ( Active )
+3.0
+ARC 1115
+Architectural Communications 1 ( Active )
+2.0
+SLS 1106
+First Year Experience Seminar ( Active )
+1.0
+Semester 2
+Units: 14.0
+ENC 1102
+English Composition 2 ( Active )
+3.0
+MAC 1105
+College Algebra ( Active )
+3.0
+ARC 1126C
+Architectural Drawing 1 ( Active )
+4.0
+ARC 1301
+Architectural Design 1 ( Active )
+4.0
+Computer Competency *
+* Computer Competency Test (CCT) ---or--- CGS 1060C. Departmental Recommendation: Computer Competency Test (CCT)
+Semester 3
+Units: 6.0
+Natural Science
+3.0
+ESC 1000
+General Education Earth Science ( Active )
+3.0
+OR
+EVR 1001
+Introduction to Environmental Science ( Active )
+3.0
+ARC 2701
+History of Architecture 1 ( Active )
+3.0
+Semester 4
+Units: 14.0
+MAC 1114
+Trigonometry ( Active )
+3.0
+SPC 2608
+Introduction to Public Speaking ( Active )
+3.0
+ARC 1302
+Architectural Design 2 ( Active )
+4.0
+ARC 2171C
+Computer Aided Drafting 1 ( Active )
+4.0
+Semester 5
+Units: 14.0
+Natural Science
+4.0
+PHY 2053
+Physics (without Calculus) 1 ( Active )
+3.0
+AND
+PHY 2053L
+Physics (Without Calculus) 1 Lab ( Active )
+1.0
+Social Science
+3.0
+ANT 2000
+Introduction to Anthropology ( Active )
+3.0
+OR
+DEP 2000
+Human Growth and Development ( Active )
+3.0
+OR
+ECO 2013
+Principles of Economics (Macro) ( Active )
+3.0
+OR
+PSY 2012
+Introduction to Psychology ( Active )
+3.0
+OR
+WOH 2012
+History of World Civilization to 1789 ( Active )
+3.0
+OR
+WOH 2022
+History of World Civilization From 1789 ( Active )
+3.0
+ARC 2461
+Architectural Materials and Construction 1 ( Active )
+4.0
+ARC 2702
+History of Architecture 2 ( Active )
+3.0
+Total : 60.0

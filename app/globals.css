@@ -1,0 +1,254 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #f4eee2;
+  --color-surface: #fffcf5;
+  --color-ink: #1c1b18;
+  --color-muted: #5c564c;
+  --color-accent: #ff5a1f;
+  --color-teal: #0e8c8a;
+}
+
+@theme inline {
+  --font-sans: var(--font-bricolage), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: #ffd7c4;
+  color: var(--color-ink);
+}
+
+.focus-ring:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 2px;
+}
+
+.ticket {
+  border: 2px solid var(--color-ink);
+  border-radius: 14px;
+  background: var(--color-surface);
+  box-shadow: 4px 4px 0 var(--color-ink);
+}
+
+.ticket-on {
+  background: var(--color-accent);
+}
+
+.press {
+  border: 2px solid var(--color-ink);
+  border-radius: 999px;
+  background: var(--color-accent);
+  color: var(--color-ink);
+  box-shadow: 4px 4px 0 var(--color-ink);
+  transition:
+    transform 180ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    box-shadow 180ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.press:active {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--color-ink);
+}
+
+.route-stage {
+  position: relative;
+  height: 22rem;
+}
+
+@media (min-width: 768px) {
+  .route-stage {
+    height: calc(100dvh - 7.5rem);
+  }
+}
+
+.route-scroll {
+  height: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+}
+
+.route-track {
+  position: relative;
+  height: 100%;
+}
+
+.route-stop {
+  position: absolute;
+  z-index: 2;
+  width: 0;
+  height: 0;
+  scroll-snap-align: center;
+}
+
+.route-card {
+  position: absolute;
+  left: 0;
+  width: 15rem;
+}
+
+.route-card-under {
+  transform: translate(-50%, 1.1rem);
+}
+
+.route-card-over {
+  transform: translate(-50%, calc(-100% - 1.1rem));
+}
+
+.route-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(-50%, -50%);
+}
+
+.route-wave {
+  position: absolute;
+  inset: 0;
+  display: block;
+  pointer-events: none;
+}
+
+.route-rider {
+  position: absolute;
+  z-index: 1;
+  width: 1.35rem;
+  height: 0.45rem;
+  border: 2px solid var(--color-ink);
+  border-radius: 999px;
+  background: var(--color-accent);
+  offset-rotate: 0deg;
+  pointer-events: none;
+  animation: route-ride 2.4s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.route-down {
+  position: absolute;
+  bottom: 0.75rem;
+  left: 50%;
+  z-index: 3;
+  display: grid;
+  height: 2.75rem;
+  width: 2.75rem;
+  place-items: center;
+  border: 2px solid var(--color-ink);
+  border-radius: 999px;
+  background: var(--color-surface);
+  transform: translateX(-50%);
+  animation: route-bob 1.6s ease-in-out infinite;
+}
+
+.route-wave-line {
+  fill: none;
+  stroke-width: 4;
+  stroke-linecap: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: wave-draw 600ms cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.route-line {
+  transform-origin: top;
+  animation: route-draw 600ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+.station-pop {
+  animation: station-pop 180ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+
+@keyframes route-draw {
+  from {
+    transform: scaleY(0);
+  }
+  to {
+    transform: scaleY(1);
+  }
+}
+
+@keyframes wave-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes route-ride {
+  from {
+    offset-distance: 0%;
+  }
+  to {
+    offset-distance: 100%;
+  }
+}
+
+@keyframes route-bob {
+  50% {
+    transform: translateX(-50%) translateY(8px);
+  }
+}
+
+.line-draw {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: wave-draw 600ms cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+@media (hover: none), (pointer: coarse) {
+  .line-draw {
+    animation-duration: 1.2s;
+  }
+
+  .station-pop {
+    animation: none;
+  }
+}
+
+.line-dot {
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+@keyframes station-pop {
+  from {
+    transform: scale(0.6);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .press,
+  .route-line,
+  .route-wave-line,
+  .line-draw,
+  .station-pop {
+    animation: none;
+    transition: none;
+  }
+
+  .route-wave-line,
+  .line-draw {
+    stroke-dashoffset: 0;
+  }
+
+  .route-rider {
+    display: none;
+  }
+
+  .route-down {
+    animation: none;
+  }
+
+  .route-scroll {
+    overflow-x: auto;
+    overflow-y: hidden;
+  }
+}
